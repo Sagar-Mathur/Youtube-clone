@@ -1,0 +1,278 @@
+.nav{
+
+   height: 800px;
+   width: 250px;
+   margin-left: 18px;
+   overflow-y: scroll;
+   overflow-x: auto;
+   
+}
+.line{
+   width: 40px;
+   margin-left: -9px;
+   margin-top: 5px;
+
+}
+.logo{
+   position: absolute;
+   width: 100px;
+   height: 25px;
+   margin-left: 13px;
+   margin-top:10px ;
+}
+.home{
+   width: 20px;
+   height: 25px;
+   position: absolute;
+}
+.navbar{
+   margin-top: 20px;
+
+}
+body{
+   padding: 0;
+   margin: 0;
+}
+span{
+   position: absolute;
+   margin-left: 30px;
+   font-family: arial;
+}
+.nav2{
+   border-top: solid 2px whitesmoke;
+   margin-top: 30px;
+}
+.nav3{
+   border-top: solid 2px whitesmoke;
+   margin-top: 30px;
+}
+.nav3 p{
+   font-size: 18px;
+}
+.nav4{
+   border-top: solid 2px whitesmoke;
+   margin-top: 30px;
+}
+.sign{
+   font-size: 17px;
+   height: 35px;
+   width: 110px;
+   margin-left: 24px;
+   color: blue;
+   border-radius: 20px;
+   border: solid 2px whitesmoke;
+   background-color: transparent;
+}
+.navigation{
+   top: 0;
+   position: absolute;
+   margin-left: 320px;
+   margin-top: 10px;
+
+}
+.navigation input{
+   width: 550px;
+   height: 38px;
+   border-radius: 20px 0px 0px 20px;
+   border: solid 2px whitesmoke;
+   position: absolute;
+   margin-left: 50px;
+   margin-bottom: 20px;
+
+
+}
+.navigation input:hover{
+   border: solid 2px blueviolet;
+}
+.search{
+   height:30px ;
+   width: 30px;
+   margin-left: -6px;
+   border-radius: 0px 20px 20px 0px;
+}
+
+
+.btnsearch{
+   margin-left: 600px;
+   border-left: solid 1px black;
+   border-radius: 0px 20px 20px 0px;
+   position: absolute;
+   background-color: whitesmoke;
+   width: 35px;
+   height: 38px;
+   margin-top: px;
+   border:solid 2px whitesmoke;
+   
+}
+.btnmic img{
+   width: 20px;
+   top: 0;
+   position: absolute;
+   margin-left: -10px;
+   margin-top: 6px;
+   
+}
+.btnmic{
+   top: 0;
+   width: 37px;
+   height: 37px;
+   position: absolute;
+   margin-left: 650px;
+   border-radius: 50px;
+   border: none;
+}
+.dot{
+   width: 20px;
+   margin-top: 10px;
+   top: 0;
+   position: absolute;
+   margin-left: 850px;
+}
+.sign2{
+   
+  margin-top: 5px;
+   top: 0;
+   position: absolute;
+   margin-left: 880px; 
+    font-size: 17px;
+   height: 32px;
+   width: 95px;
+   color: blue;
+   border-radius: 20px;
+   border: solid 2px whitesmoke;
+   background-color: transparent;
+
+}
+.sign2:hover{
+   background-color: whitesmoke;
+}
+
+.library{
+   width: 20px;
+   height: 25px;
+   position: absolute;
+}
+.history{
+   width: 20px;
+   height: 20px;
+   position: absolute;
+}
+.btn button{
+   background-color: whitesmoke;
+   padding: 15px;
+   border: none;
+   margin-top: 60px;
+   border-radius: 10px;
+   width: auto;
+   text-align: center;
+   flex-basis: auto;
+   padding: auto;
+}
+.video1{
+   margin-top: 10px;
+   width: 310px;
+   height: 200px;
+   position: absolute;  
+}
+.video2{
+   margin-top: 10px;
+   margin-left: 320px; 
+   width: 310px;
+   height: 200px;
+   position: absolute;
+}
+.video3{
+   margin-top: 10px;
+   margin-left: 650px;
+   width: 310px;
+   height: 200px;
+   position: absolute;
+}
+.video4{
+   margin-top: 330px;
+   width: 310px;
+   height: 200px;
+   position: absolute;  
+}
+.video5{
+   margin-top: 330px;
+   margin-left: 320px; 
+   width: 310px;
+   height: 200px;
+   position: absolute;
+}
+.video6{
+   margin-top: 330px;
+   margin-left: 650px;
+   width: 310px;
+   height: 200px;
+   position: absolute;
+}
+.words img{
+   width: 30px;
+   height: 29px;
+   
+}
+
+.names{
+   margin-top: 230px;
+   margin-left: 20px;
+   position: absolute;
+}
+.ch-logo1{
+   margin-top: 229px;
+   margin-left: -10px;
+   position: absolute;
+
+}
+.ch-logo2{
+   margin-top: 229px;
+   position:absolute;
+   margin-left: 315px;
+
+
+}
+.names1{
+   position: absolute;
+   margin-top: 230px;
+   margin-left: 350px;
+}
+.ch-logo3{
+   margin-top: 229px;
+   position:absolute;
+   margin-left: 645px;
+
+}
+.names2{
+   position: absolute;
+   margin-top: 230px;
+   margin-left: 677px;
+}
+h4{
+   font-family: arial;
+}
+h4 span{
+   margin-left: -1px;
+   color: gray;
+   font-family: arial,roboto;
+}
+.arrow{
+   position: absolute;
+   margin-top: -44px;
+   margin-left: -20px;
+   width: 30px;
+   height: 42px;
+   border: none;
+   border-radius: 5px;
+   background: transparent;
+}
+.arrow1{
+   position: absolute;
+   margin-top: -44px;
+   margin-left: 940px;
+   width: 30px;
+   height: 42px;
+   border: none;
+   border-radius: 5px;
+   background: transparent;
+}
